@@ -3,7 +3,7 @@ Hai Guys👋, Nama saya Muhammad Fauzan berumur 16 Tahun. Saya adalah seorang si
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.instagram.com/zanshere) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?logo=Instagram&logoColor=white)](https://instagram.com/zanshere) 
 [![Instagram](https://img.shields.io/badge/YouTube-%23E4405F.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ZansCode) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1Es5tzkaf8/)
 
