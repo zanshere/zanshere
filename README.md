@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hai Guys👋, Nama saya Muhammad Fauzan berumur 16 Tahun. Saya adalah seorang siswa dari SMK Bina Mandiri Multimedia dan mengambil jurusan RPL(Rekayasa Perangkat Lunak). Saat ini, saya duduk di kelas 11 dan sedang mendalami berbagai keahlian di bidang pemrograman, termasuk pengembangan aplikasi dan website. Selain belajar, saya juga tertarik mengeksplorasi dunia desain serta teknologi terbaru. Harapan saya ke depan adalah menjadi seorang fullstack developer yang handal dan mampu menciptakan solusi teknologi yang bermanfaat bagi banyak orang. 😊
+Hai Guys👋, Nama saya Muhammad Fauzan berumur 17 Tahun. Saya adalah seorang siswa dari SMK Bina Mandiri Multimedia dan mengambil jurusan RPL(Rekayasa Perangkat Lunak). Saat ini, saya duduk di kelas 11 dan sedang mendalami berbagai keahlian di bidang pemrograman, termasuk pengembangan aplikasi dan website. Selain belajar, saya juga tertarik mengeksplorasi dunia desain serta teknologi terbaru. Harapan saya ke depan adalah menjadi seorang fullstack developer yang handal dan mampu menciptakan solusi teknologi yang bermanfaat bagi banyak orang. 😊
 
 
 ## 🌐 Socials:
